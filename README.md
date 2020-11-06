@@ -50,9 +50,8 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 
 <ul>
 	<li>Creating New Data</li>
-	<p> After using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform">form</a>, we acquired script, and used the following commands to use these scripts</p>
 	<ol>
-		<li>First Order Motion for images animation (Deep fakes)</li>
+		<li>First Order Motion for images animation (Deep fakes) <a href="https://aliaksandrsiarohin.github.io/first-order-model-website/">Source</a> <a href="https://github.com/AliaksandrSiarohin/first-order-model">Github</a></li>
 		<p>File: <b>New Data/Creating-Deepfakes.ipynb</b></p>
 		<p>Since the model is performing too well and creating perfect deepfakes, to test the XceptionNet model accuracy we are creating two types of deepfake videos.</p>
      	<ol>
