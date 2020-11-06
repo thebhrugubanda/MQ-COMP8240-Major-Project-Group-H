@@ -39,17 +39,21 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 
 <h5>Citations:</h5>
 
-<code>@inproceedings{roessler2019faceforensicspp,
+<blockquote>
+	<p>@inproceedings{roessler2019faceforensicspp,
 	author = {Andreas R\"ossler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nie{\ss}ner},
 	title = {Face{F}orensics++: Learning to Detect Manipulated Facial Images},
 	booktitle= {International Conference on Computer Vision (ICCV)},
-	year = {2019}
-}</code>
-<code>
-@InProceedings{Siarohin_2019_NeurIPS,
+	year = {2019}}
+</p>
+</blockquote>
+
+<blockquote>
+	<p>@InProceedings{Siarohin_2019_NeurIPS,
   author={Siarohin, Aliaksandr and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu},
   title={First Order Motion Model for Image Animation},
   booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
   month = {December},
-  year = {2019}
-}</code>
+  year = {2019}}
+</p>
+</blockquote>
