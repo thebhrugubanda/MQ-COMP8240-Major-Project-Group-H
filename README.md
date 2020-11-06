@@ -25,13 +25,13 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 	<li>Data Extraction</li>
 	<li>Data Pre-Processing</li>
 	<li>Xception Modelling</li>
-<ul>
+</ul>
 <h5>Creating new data & applying on the original work</h5>
 <p>To create new data we used the paper : First Order Model for image animation (<a href="">Source Paper</a>)</p>
 <ul>
 	<li>Creating New Data</li>
 	<li>Xception Modelling</li>
-<ul>
+</ul>
 
 <h5>Citations:</h5>
 <ol>
