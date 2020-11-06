@@ -29,7 +29,6 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 		<li>Using the script to extract frames from the videos downloaded.</li>
 			<code>python extracted_compressed_videos.py <output path> -d <"all" or single dataset via "Face2Face" or "original"> -c c23</code>
 	</ul>
-	
 	<li>Data Pre-Processing</li>
 	<p>File: <b>Original Work/ Data Pre-Processing.ipynb</b></p>
 	<ul>
