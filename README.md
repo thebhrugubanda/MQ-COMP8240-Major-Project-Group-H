@@ -24,7 +24,21 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 <ul>
 	<li>Data Extraction</li>
 	<li>Data Pre-Processing</li>
+	<p>File: <b>Original Work/ Data Pre-Processing.ipynb</b></p>
+	<ul>
+		<li>First faces are extracted from video frames using bounding boxes.</li>
+		<li>Splitting the data and creating Train,Test and CV data.</li>
+		<li>Shuffling the data and assigning class labels to every image 1 or 0 (Fake =1 and Real =0).</li>
+		<li>Pickling the data to create .pkl files.</li>
+	</ul>
 	<li>Xception Modelling</li>
+	<p>File: <b>Original Work/ Xceptionnet_Modelling.ipynb</b></p>
+	<ul>
+		<li>Import the pre-processed data i.e. Pickle files.</li>
+		<li>Feed it into the model to pre-train and then test the accuracies using 2 variation of epochs.</li>
+		<li>Evaluate the model on Train,CV and Test data to find accuracy of the model.</li>
+	</ul>
+	
 </ul>
 <h5>Creating new data & applying on the original work</h5>
 
