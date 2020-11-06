@@ -1,8 +1,8 @@
-<h5>Reproducing Faceforensics++: Learning to detect manipulated facial images</h5>
-<a href="https://github.com/ondyari/FaceForensics">Source Paper</a>
+<h4>Reproducing Faceforensics++: Learning to detect manipulated facial images <a href="https://github.com/ondyari/FaceForensics">Source Paper</a></h4>
+
 <p>To reproduce the same results, the dataset need to be downloading using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform">form</a> by agreeing to their terms & conditions.</p>
 <p>Repository Descprition:</p>
-<p>This repostitory is a major project which is a part of the course unit COMP8240 - Applications of Data Science</p>
+<p>This repostitory is a major project ,part of the course unit COMP8240 - Applications of Data Science</p>
 <hr>
 <h5>Team Member:</h5>
 <h6>Group: H</h6>
