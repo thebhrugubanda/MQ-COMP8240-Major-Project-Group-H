@@ -39,27 +39,8 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 
 <h5>Citations:</h5>
 
-<<<<<<< HEAD
 <ol>
 	<li>Rössler, Andreas & Cozzolino, Davide & Verdoliva, Luisa & Riess, Christian & Thies, Justus & Nießner, Matthias. (2019). FaceForensics++: Learning to Detect Manipulated Facial Images.</li>
 	<li>Siarohin, Aliaksandr & Lathuilière, Stéphane & Tulyakov, Sergey & Ricci, Elisa & Sebe, Nicu. (2020). First Order Motion Model for Image Animation.</li>
 </ol>
-=======
-```
-@inproceedings{roessler2019faceforensicspp,
-	author = {Andreas R\"ossler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nie{\ss}ner},
-	title = {Face{F}orensics++: Learning to Detect Manipulated Facial Images},
-	booktitle= {International Conference on Computer Vision (ICCV)},
-	year = {2019}
-}
-```
-```
-@InProceedings{Siarohin_2019_NeurIPS,
-	author={Siarohin, Aliaksandr and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu},
-	title={First Order Motion Model for Image Animation},
-	booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
-	month = {December},
-	year = {2019}
-}
-```
->>>>>>> 1b0a82619acc68709d691c937e05c62a7796cf0b
+
