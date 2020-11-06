@@ -7,9 +7,9 @@ This repostitory is a major project ,part of the course unit <b>COMP8240 - Appli
 <h5>Team Members (Group H):</h5>
 <ol>
 	<li>Sai Diwakar Bhrugubanda (45852189)</li>
-	<li>Saiprudhvi Meda ()</li>
-	<li>Rahul Sonkusare</li>
-	<li>Shruti Tyagi</li>
+	<li>Saiprudhvi Meda (45725535)</li>
+	<li>Rahul Sonkusare (45779880)</li>
+	<li>Shruti Tyagi (45831815)</li>
 </ol>
 <hr>
 <h4>Stages of Implementation:</h4>
